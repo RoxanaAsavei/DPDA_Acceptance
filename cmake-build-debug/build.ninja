@@ -61,18 +61,6 @@ build CMakeFiles/PDA_Acceptance.dir/PDA.cpp.obj: CXX_COMPILER__PDA_Acceptance_un
   OBJECT_DIR = CMakeFiles\PDA_Acceptance.dir
   OBJECT_FILE_DIR = CMakeFiles\PDA_Acceptance.dir
 
-build CMakeFiles/PDA_Acceptance.dir/stangaProductie.cpp.obj: CXX_COMPILER__PDA_Acceptance_unscanned_Debug C$:/Users/roxan/CLionProjects/PDA_Acceptance/stangaProductie.cpp || cmake_object_order_depends_target_PDA_Acceptance
-  DEP_FILE = CMakeFiles\PDA_Acceptance.dir\stangaProductie.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\PDA_Acceptance.dir
-  OBJECT_FILE_DIR = CMakeFiles\PDA_Acceptance.dir
-
-build CMakeFiles/PDA_Acceptance.dir/descriereInstantanee.cpp.obj: CXX_COMPILER__PDA_Acceptance_unscanned_Debug C$:/Users/roxan/CLionProjects/PDA_Acceptance/descriereInstantanee.cpp || cmake_object_order_depends_target_PDA_Acceptance
-  DEP_FILE = CMakeFiles\PDA_Acceptance.dir\descriereInstantanee.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\PDA_Acceptance.dir
-  OBJECT_FILE_DIR = CMakeFiles\PDA_Acceptance.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target PDA_Acceptance
@@ -81,7 +69,7 @@ build CMakeFiles/PDA_Acceptance.dir/descriereInstantanee.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the executable PDA_Acceptance.exe
 
-build PDA_Acceptance.exe: CXX_EXECUTABLE_LINKER__PDA_Acceptance_Debug CMakeFiles/PDA_Acceptance.dir/main.cpp.obj CMakeFiles/PDA_Acceptance.dir/PDA.cpp.obj CMakeFiles/PDA_Acceptance.dir/stangaProductie.cpp.obj CMakeFiles/PDA_Acceptance.dir/descriereInstantanee.cpp.obj
+build PDA_Acceptance.exe: CXX_EXECUTABLE_LINKER__PDA_Acceptance_Debug CMakeFiles/PDA_Acceptance.dir/main.cpp.obj CMakeFiles/PDA_Acceptance.dir/PDA.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\PDA_Acceptance.dir

@@ -4,7 +4,6 @@
 #include <unordered_map>
 #include <string>
 #include <stack>
-#include "stangaProductie.h"
 
 class PDA {
     int nrStari;
