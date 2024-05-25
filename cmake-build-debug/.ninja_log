@@ -1,0 +1,10 @@
+# ninja log v5
+1	1816	7383321637518074	CMakeFiles/PDA_Acceptance.dir/main.cpp.obj	393d1cce64a103e3
+114	1857	7383321637954200	CMakeFiles/PDA_Acceptance.dir/stangaProductie.cpp.obj	7abe179ec33293b9
+324	2573	7383321645124003	CMakeFiles/PDA_Acceptance.dir/descriereInstantanee.cpp.obj	2aaccbc9395e7f86
+226	2914	7383321648521454	CMakeFiles/PDA_Acceptance.dir/PDA.cpp.obj	1e4ced36a385eba8
+2915	3927	7383321658594055	PDA_Acceptance.exe	55a5fc0ddc21dad4
+5	1154	7383325867465241	CMakeFiles/PDA_Acceptance.dir/main.cpp.obj	393d1cce64a103e3
+1155	2119	7383325877075314	PDA_Acceptance.exe	55a5fc0ddc21dad4
+4	1361	7383327783869370	CMakeFiles/PDA_Acceptance.dir/PDA.cpp.obj	1e4ced36a385eba8
+1362	2248	7383327792691619	PDA_Acceptance.exe	55a5fc0ddc21dad4
